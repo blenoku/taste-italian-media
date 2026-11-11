@@ -38,4 +38,4 @@ Se un percorso manca o la cartella e' vuota, il mod si ferma prima del montaggio
 
 ## Pubblicazione
 - Solo dopo conferma esplicita del titolare, contenuto per contenuto o "tutto".
-- Canale: Metricool (Instagram). TikTok non e' collegato: i file `-no-music` vanno caricati a mano.
+- Canale: Metricool. Instagram: @taste.italian.bedford. TikTok: @taste.italia (collegato a Metricool dal 12/11/2026). I reel TikTok si salvano in BOZZA in Metricool con i file `-no-music`: il titolare aggiunge la musica e pubblica a mano.

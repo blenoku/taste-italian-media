@@ -44,3 +44,7 @@ Senza questi tre, sabato 21 resta senza contenuti e venerdi ha solo il reel.
 - `marketing/hooks-registry.md` era vuoto: lo script degli hook non poteva confrontare con il passato. Vanno aggiunti anche gli hook di ottobre e novembre gia' pubblicati.
 - I grezzi `DSC_*.MOV` hanno una traccia audio (PCM) anche se l'inventario li dava muti.
 - Mancano riprese di clienti/sportello, del trailer di giorno e di molte pizze del menu (solo foto).
+
+## Stato in Metricool (aggiornato 12/11/2026)
+- **Instagram**: 4 reel e 5 story programmati. Le story di lun 16 (12:00), mer 18 (18:00) e gio 19 (18:00) arrivano come notifica nell'app Metricool: si aggiunge lo sticker e si pubblica a mano. Le altre escono da sole.
+- **TikTok** (@taste.italia): 4 reel salvati in **bozza**, non programmati, con le date dei reel Instagram (lun 16, mer 18 solo mani, gio 19, ven 20, ore 10:00 Londra). Titolo = hook, caption e hashtag come Instagram, file `-no-music`. Il titolare aggiunge la musica e pubblica.
