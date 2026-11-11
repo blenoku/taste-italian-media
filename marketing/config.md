@@ -21,8 +21,8 @@ Letta da tutti gli agenti del mod `/marketing-settimana`. Modifica qui, non nei 
 
 ## Cartelle sorgente (materiale grezzo)
 Gli agenti di montaggio prelevano SOLO da qui:
-- `per claude`  -> percorso: (da compilare)
-- `video 1`     -> percorso: (da compilare)
+- `per claude`  -> percorso: `C:\Users\Utente\OneDrive\Desktop\cartella per claude`
+- `video 1`     -> percorso: `C:\Users\Utente\OneDrive\Desktop\cartella per claude\video 1`
 
 Se un percorso manca o la cartella e' vuota, il mod si ferma prima del montaggio e lo dice.
 
