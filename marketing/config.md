@@ -14,10 +14,10 @@ Letta da tutti gli agenti del mod `/marketing-settimana`. Modifica qui, non nei 
 ## Concorrenti da monitorare
 | Concorrente | Instagram / sito | Note |
 |---|---|---|
-| Peddling Pizza | (lo scout lo trova e lo scrive qui) | |
-| Dough Boy Pizza | | |
-| Sud Italia | | |
-| Italian Touch by Ivano | | |
+| Peddling Pizza | @peddlingpizzas | Pizza truck a St Albans, non Bedford. Creator nazionale: riferimento di stile |
+| Dough Boy Pizza | non trovato (11/11/2026) | Solo omonimi in altre citta': serve il profilo esatto |
+| Sud Italia | @sud_italia (da confermare) | Furgoni a Londra, non Bedford |
+| Italian Touch by Ivano | @italian_touch_by_ivano | Ristorante, 57 High Street, Bedford. Unico concorrente locale confermato |
 
 ## Cartelle sorgente (materiale grezzo)
 Gli agenti di montaggio prelevano SOLO da qui:
