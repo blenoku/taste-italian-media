@@ -16,7 +16,7 @@
 
 ## Caption
 This is the view from our side of the counter.
-In it goes pale, out it comes puffed up and golden. Most people only ever see the box - this is the bit just before it.
+In it goes pale, out it comes puffed up and golden. Most people only ever see the box; this is the bit just before it.
 Save this one for your next pizza night 🔥
 
 ## Hashtag
